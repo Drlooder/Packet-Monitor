@@ -9,6 +9,7 @@ Currently, it supports **one API** and more features are coming soon.
 - Real-time packet monitoring.
 - Supports one API in this beta version.
 - Lightweight and easy to integrate via DLL.
+- Open Source
 
 ## File Structure
 - <a href="x64/Release/Packet Monitor.dll" target="_blank">x64/Release/Packet Monitor.dll</a> — Core library to use the packet monitor functionality.
