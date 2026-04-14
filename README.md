@@ -17,10 +17,13 @@ Currently, it supports **one API** and more features are coming soon.
 
 ## How It Works
 - just by **Injecting** the `Packet Monitor.dll` in your program using cheat engine or whatever injector you use.
-
-> ⚠️ Note: This is a beta version. Some features may not be fully implemented, and API support is limited.
+- if you want just to use the dll you have to install `Packet Monitor.dll` & `minhook.dll` and put them in the same file.
 
 ## Upcoming Features
 - Support for multiple APIs.
 - Advanced filtering and logging.
 - More integrations and documentation.
+
+---
+> ⚠️ **Note** : This is a beta version. Some features may not be fully implemented, and API support is limited.
+---
