@@ -2,7 +2,7 @@
 
 **Beta Version**
 
-Packet Monitor is a lightweight beta tool for monitoring network packets.  
+Packet Monitor is a lightweight beta tool for monitoring network -- you can see apps send/read internet -- packets.  
 Currently, it supports **one API** and more features are coming soon.
 
 ## Features
@@ -14,10 +14,7 @@ Currently, it supports **one API** and more features are coming soon.
 - `x64/Release/Packet Monitor.dll` — Core library to use the packet monitor functionality.
 
 ## How It Works
-1. Include the `Packet Monitor.dll` in your project.
-2. Initialize the DLL in your application.
-3. Call the monitoring functions exposed by the DLL.
-4. Process the packets according to your requirements.
+- just by **Injecting** the `Packet Monitor.dll` in your program using cheat engine or whatever injector you use.
 
 > ⚠️ Note: This is a beta version. Some features may not be fully implemented, and API support is limited.
 
