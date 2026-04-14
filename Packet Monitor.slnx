@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Packet Monitor For winhttp.h.vcxproj" Id="c016a11a-ae59-4d92-b0a3-e8e97c7499f3" />
+</Solution>
