@@ -12,10 +12,11 @@ Currently, it supports **one API** and more features are coming soon.
 
 ## File Structure
 - <a href="x64/Release/Packet Monitor.dll" target="_blank">x64/Release/Packet Monitor.dll</a> — Core library to use the packet monitor functionality.
+- <a href="x64/Release/minhook.x64.dll" target="_blank">x64/Release/minhook.x64.dll</a> — Required dependency for the DLL.
 
 ## How It Works
-- Just by **injecting** the <a href="x64/Release/Packet Monitor.dll" target="_blank"> Packet Monitor.dll</a> in your program using <a href="https://www.cheatengine.org/" target="_blank">Cheat Engine</a> or any injector you prefer.
-- If you want to just use the DLL, you have to install <a href="x64/Release/Packet Monitor.dll" target="_blank"> and `minhook.dll` and put them in the same folder.
+- Just by <a href="https://jumpcloud.com/it-index/what-is-dll-injection" target="_blank">**Inject**</a> the <a href="x64/Release/Packet Monitor.dll" target="_blank">Packet Monitor.dll</a> in your program using <a href="https://www.cheatengine.org/" target="_blank">Cheat Engine</a> or any injector you prefer.
+- If you want to just use the DLL, you have to install <a href="x64/Release/Packet Monitor.dll" target="_blank">Packet Monitor.dll</a> & <a href="x64/Release/minhook.x64.dll" target="_blank">minhook.x64.dll</a> and put them in the same folder.
 
 ## Upcoming Features
 - Support for multiple APIs.
